@@ -15,7 +15,8 @@ int main() {
 	/* Here is code that gives fflt its values */
 	summa = 0.0;
 	fp = fflt;
-
+	// This is another commit.
+	// This will be shown only after I commit
 	for (i=0; i<1000; i++) {
 		summa += *fp;
 		fp++;
