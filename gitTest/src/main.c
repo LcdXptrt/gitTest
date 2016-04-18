@@ -20,4 +20,5 @@ int main() {
 		summa += *fp;
 		fp++;
 	}
+	printf("Finished!");
 }
